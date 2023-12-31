@@ -21,7 +21,7 @@
   .uc__main{
     background-image: none;
     justify-content: flex-start;
-    padding-top: 119px;
+    padding-top: 16.2vh;
   }
 }
 .uc__main_illustration-mobile{
@@ -65,7 +65,7 @@
 
 @media (orientation: portrait), (max-width: 798px) {
   .uc__main_soon-text{
-    margin: 46px;
+    margin-top: 6.27vh;
     font-size: 32px;
     text-shadow: none;
     -webkit-text-stroke-width: none;
